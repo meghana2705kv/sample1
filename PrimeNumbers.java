@@ -7,7 +7,7 @@ class PrimeNumbers
        //Empty String
        String  primeNumbers = "";
 
-       for (i = 1; i <= 100; i++)         
+       for (i = 1; i <= 500; i++)         
        { 		  	  
           int counter=0; 	  
           for(num =i; num>=1; num--)
@@ -28,3 +28,4 @@ class PrimeNumbers
    }
 
 }
+
